@@ -1,4 +1,4 @@
 # firstrepo
 exploring...
 <br>
-Author: Alice Sharma
+Author: Alice (JECRC University)
